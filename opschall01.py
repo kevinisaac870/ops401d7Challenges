@@ -3,7 +3,7 @@
 # Date of latest revision:      20230118
 # Purpose:      Automate Screen Lock
 
-
+# Attribution: https://quickbytesstuff.blogspot.com/2014/10/lock-computer-using-powershell.html
 
 Echo “Computer locking due to inactivty....”
 
