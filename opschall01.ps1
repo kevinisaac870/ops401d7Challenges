@@ -7,7 +7,7 @@
 # https://www.techrepublic.com/article/keep-your-windows-sessions-alive-and-ready-with-this-powershell-script/
 
 
-Echo “Computer locking due to inactivty....”
+Echo “Computer locking due to inactivity....”
 
 $WShell = New-Object -com “Wscript.Shell”
 
