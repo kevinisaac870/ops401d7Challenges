@@ -33,3 +33,28 @@ while True:
     # print("current day:", today.day)
 
 # End
+
+
+# import os
+# import time
+# import datetime
+# # from datetime import datetime - IS MORE SPECIFIC AND PULLS CLASS FEOM LIBRARY
+# def check_ping(target):
+
+#         response = os.system("ping -c 1 " + target)
+
+#         if response == 0:
+#                 ping_status = "Network Active"
+#         else:
+#                 ping_status = "Network Inactive"
+
+#         return ping_status
+# # RETURN NOW DEFINES VARIABLE TO PING_STATUS
+#         ping_status = check_ping("8.8.8.8")
+
+#         while True:
+#             now = datetime.datetime.now()
+
+#             print(str(now) + " " + ping_status + "to 8.8.8.8")
+
+#             time.sleep(2)
